@@ -1,0 +1,44 @@
+.infinity-container {
+  height: 100vh;
+  background: #000; /* nền tối */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.infinity {
+  font-size: 450px; 
+  font-weight: bold;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: transparent;
+
+  /* Hiệu ứng màu chảy */
+  background: linear-gradient(
+    220deg,
+    #ff0000,
+    #ff9900,
+    #ffff00,
+    #33cc33,
+    #3bc5e7,
+    #6600cc,
+    #ff0066,
+    #ff0000
+  );
+  background-size: 1600% 1000%;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+
+  animation: flowColors 4s ease-in-out infinite;
+}
+
+@keyframes flowColors {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}

@@ -6,6 +6,8 @@
   ![image](https://github.com/user-attachments/assets/bce88e16-e899-4657-9a3b-fb5be0976974)
 # Di chuyển đến thư mục chứa mã nguồn
   ![image](https://github.com/user-attachments/assets/84d4bdd1-da29-4eb8-bcd9-fb5052334f83)
+# Cài đặt npm 
+  Gõ lệnh npm install
 # Chạy ứng dụng
   ![image](https://github.com/user-attachments/assets/06a69242-2329-4835-85f9-150c7c6dce38)
 # Mỏ ứng dụng

@@ -10,7 +10,7 @@
   Gõ lệnh npm install
 # Chạy ứng dụng
   ![image](https://github.com/user-attachments/assets/06a69242-2329-4835-85f9-150c7c6dce38)
-# Mỏ ứng dụng
+# Mở ứng dụng
   Nhấn giữ nút control và click chuột trái vào http://localhost:5173/
   ![image](https://github.com/user-attachments/assets/aa727f8b-f0fb-467e-be2f-8e650e53ae33)
 # Hình ảnh khi truy cập vào trang 
